@@ -1,0 +1,5 @@
+#roslaunch usb_cam usb_cam-test.launch
+#roslaunch ultralytics_ros tracker.launch debug:=true
+#rosrun bbox_det bbox_det
+
+#320 240 640 480
