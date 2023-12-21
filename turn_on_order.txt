@@ -1,5 +1,0 @@
-#roslaunch usb_cam usb_cam-test.launch
-#roslaunch ultralytics_ros tracker.launch debug:=true
-#rosrun bbox_det bbox_det
-#rosrun my_arduino_pkg pwm_control_node
-#arduino start
